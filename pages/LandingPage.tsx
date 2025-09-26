@@ -55,7 +55,7 @@ const LandingPage: React.FC = () => {
         <div className="container mx-auto px-6 text-center">
           <h3 className="text-3xl font-bold text-brand-primary mb-4">Our Calling</h3>
           <p className="max-w-3xl mx-auto text-gray-600 leading-relaxed">
-            WE
+            We are dedicated to demonstrating God's love in tangible ways. Through medical aid, education, community development, and sharing the Gospel, we strive to bring hope and healing to communities in need around the world. Every trip is a step of faith, and every story is a testament to His grace.
           </p>
         </div>
       </section>
