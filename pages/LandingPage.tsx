@@ -36,7 +36,7 @@ const LandingPage: React.FC = () => {
       {/* Hero Section */}
       <section 
         className="relative h-[60vh] bg-cover bg-center flex items-center justify-center text-white"
-        style={{ backgroundImage: "url('https://images.pexels.com/photos/8948348/pexels-photo-8948348.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')" }}
+        style={{ backgroundImage: "url('/website-featured-image-2-scaled.jpg')" }}
       >
         <div className="absolute inset-0 bg-brand-dark opacity-50"></div>
         <div className="relative z-10 text-center px-4">
